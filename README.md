@@ -31,22 +31,13 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
+  <a href="https://github.com/JuiHsuanLee0303">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuiHsuanLee0303&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <!-- <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=JuiHsuanLee0303&theme=dark" />  -->
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuiHsuanLee0303&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
+  </a>
+  <a href="https://github.com/JuiHsuanLee0303">
+  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuiHsuanLee0303&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
 <!--- stats (end) -->
 
 <!--- trophy (start) -->
