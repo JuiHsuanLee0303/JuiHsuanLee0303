@@ -32,10 +32,10 @@
 <p align="center">
   <!--- stats (start) -->
   <a href="https://github.com/JuiHsuanLee0303">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JuiHsuanLee0303&theme=dark&show_icons=true&count_private=true" />
+  <img height="180em" align="center"  src="https://github-readme-stats.vercel.app/api?username=JuiHsuanLee0303&theme=dark&show_icons=true&count_private=true" />
   </a>
   <a href="https://github.com/JuiHsuanLee0303">
-  <img  align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuiHsuanLee0303&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JuiHsuanLee0303&layout=compact&langs_count=8&theme=dark"/>
   </a>
 </p>
 <!--- stats (end) -->
