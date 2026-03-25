@@ -14,20 +14,28 @@
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%26+Web+Developer;Always+Learning+New+Things;Passionate+About+Technology" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+%26+Web+Developer;LLM+%26+Cybersecurity+Enthusiast;Always+Learning+New+Things;Passionate+About+Technology" alt="Typing SVG" />
 </div>
 
 ---
 
-🎓 I'm currently pursuing my Master's in **Artificial Intelligence and Business Applications** at National Taipei University of Business.  
-🛠️ Passionate about leveraging **AI and Web Technologies** to solve real-world problems.  
-🌍 Interested in **Cybersecurity**, **LLM applications**, and **full-stack development** using modern tools and frameworks.  
-📈 Exploring practical projects involving **Vue.js**, **Django**, **Node.js**, and **Machine Learning**.  
+🎓 I'm currently pursuing my Master's in **Artificial Intelligence and Business Applications** at National Taipei University of Business.
+🛠️ Passionate about leveraging **AI and Web Technologies** to solve real-world problems.
+🌍 Interested in **Cybersecurity**, **LLM applications**, and **full-stack development** using modern tools and frameworks.
+📈 Exploring practical projects involving **Vue.js**, **Django**, **Node.js**, and **Machine Learning**.
 📫 Reach me at **juihsuanlee0303@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack & Currently Exploring
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Frontend & UI
 
@@ -44,6 +52,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -56,6 +65,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Transformers-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LLM-0066CC?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
@@ -115,8 +125,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Web_Development-4A90E2?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-1A73E8?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1A73E8?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud_Computing-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Applications-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -137,5 +148,4 @@
 
 ---
 
-Credit: [1010nishant](https://github.com/1010nishant)  
-Last Edited on: 2025/04/15
+Last Edited on: 2026/03/25
