@@ -1,0 +1,31 @@
+name: Update README Date
+
+on:
+  schedule:
+    # Runs at 00:00 UTC on the 1st of every month
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+
+jobs:
+  update-date:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Last Edited date in README
+        run: |
+          TODAY=$(date '+%Y/%m/%d')
+          sed -i "s/Last Edited on: .*/Last Edited on: $TODAY/" README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git diff --quiet && echo "No changes" && exit 0
+          git add README.md
+          git commit -m "chore: auto-update README date to $(date '+%Y/%m/%d')"
+          git push
